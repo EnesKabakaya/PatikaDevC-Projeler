@@ -1,0 +1,8 @@
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\UcgenCizme\UcgenCizme\bin\Debug\UcgenCizme.exe.config
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\UcgenCizme\UcgenCizme\bin\Debug\UcgenCizme.exe
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\UcgenCizme\UcgenCizme\bin\Debug\UcgenCizme.pdb
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\UcgenCizme\UcgenCizme\obj\Debug\UcgenCizme.csproj.AssemblyReference.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\UcgenCizme\UcgenCizme\obj\Debug\UcgenCizme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\UcgenCizme\UcgenCizme\obj\Debug\UcgenCizme.csproj.CoreCompileInputs.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\UcgenCizme\UcgenCizme\obj\Debug\UcgenCizme.exe
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\UcgenCizme\UcgenCizme\obj\Debug\UcgenCizme.pdb

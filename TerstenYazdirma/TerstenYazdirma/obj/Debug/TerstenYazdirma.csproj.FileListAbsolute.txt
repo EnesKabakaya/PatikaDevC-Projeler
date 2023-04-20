@@ -1,0 +1,8 @@
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\TerstenYazdirma\TerstenYazdirma\bin\Debug\TerstenYazdirma.exe.config
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\TerstenYazdirma\TerstenYazdirma\bin\Debug\TerstenYazdirma.exe
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\TerstenYazdirma\TerstenYazdirma\bin\Debug\TerstenYazdirma.pdb
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\TerstenYazdirma\TerstenYazdirma\obj\Debug\TerstenYazdirma.csproj.AssemblyReference.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\TerstenYazdirma\TerstenYazdirma\obj\Debug\TerstenYazdirma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\TerstenYazdirma\TerstenYazdirma\obj\Debug\TerstenYazdirma.csproj.CoreCompileInputs.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\TerstenYazdirma\TerstenYazdirma\obj\Debug\TerstenYazdirma.exe
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\TerstenYazdirma\TerstenYazdirma\obj\Debug\TerstenYazdirma.pdb
