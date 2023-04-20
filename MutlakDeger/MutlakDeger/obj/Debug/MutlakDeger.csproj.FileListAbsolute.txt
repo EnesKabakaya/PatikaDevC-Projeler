@@ -1,8 +1,0 @@
-C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\MutlakDeger\MutlakDeger\bin\Debug\MutlakDeger.exe.config
-C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\MutlakDeger\MutlakDeger\bin\Debug\MutlakDeger.exe
-C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\MutlakDeger\MutlakDeger\bin\Debug\MutlakDeger.pdb
-C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\MutlakDeger\MutlakDeger\obj\Debug\MutlakDeger.csproj.AssemblyReference.cache
-C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\MutlakDeger\MutlakDeger\obj\Debug\MutlakDeger.csproj.SuggestedBindingRedirects.cache
-C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\MutlakDeger\MutlakDeger\obj\Debug\MutlakDeger.csproj.CoreCompileInputs.cache
-C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\MutlakDeger\MutlakDeger\obj\Debug\MutlakDeger.exe
-C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\MutlakDeger\MutlakDeger\obj\Debug\MutlakDeger.pdb
