@@ -1,0 +1,8 @@
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\KarakterDegisme\KarakterDegisme\bin\Debug\KarakterDegisme.exe.config
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\KarakterDegisme\KarakterDegisme\bin\Debug\KarakterDegisme.exe
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\KarakterDegisme\KarakterDegisme\bin\Debug\KarakterDegisme.pdb
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\KarakterDegisme\KarakterDegisme\obj\Debug\KarakterDegisme.csproj.AssemblyReference.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\KarakterDegisme\KarakterDegisme\obj\Debug\KarakterDegisme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\KarakterDegisme\KarakterDegisme\obj\Debug\KarakterDegisme.csproj.CoreCompileInputs.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\KarakterDegisme\KarakterDegisme\obj\Debug\KarakterDegisme.exe
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\KarakterDegisme\KarakterDegisme\obj\Debug\KarakterDegisme.pdb

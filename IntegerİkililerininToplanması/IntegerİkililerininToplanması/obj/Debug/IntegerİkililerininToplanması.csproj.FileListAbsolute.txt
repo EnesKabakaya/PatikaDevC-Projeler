@@ -1,0 +1,8 @@
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\IntegerİkililerininToplanması\IntegerİkililerininToplanması\bin\Debug\IntegerİkililerininToplanması.exe.config
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\IntegerİkililerininToplanması\IntegerİkililerininToplanması\bin\Debug\IntegerİkililerininToplanması.exe
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\IntegerİkililerininToplanması\IntegerİkililerininToplanması\bin\Debug\IntegerİkililerininToplanması.pdb
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\IntegerİkililerininToplanması\IntegerİkililerininToplanması\obj\Debug\IntegerİkililerininToplanması.csproj.AssemblyReference.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\IntegerİkililerininToplanması\IntegerİkililerininToplanması\obj\Debug\IntegerİkililerininToplanması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\IntegerİkililerininToplanması\IntegerİkililerininToplanması\obj\Debug\IntegerİkililerininToplanması.csproj.CoreCompileInputs.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\IntegerİkililerininToplanması\IntegerİkililerininToplanması\obj\Debug\IntegerİkililerininToplanması.exe
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\IntegerİkililerininToplanması\IntegerİkililerininToplanması\obj\Debug\IntegerİkililerininToplanması.pdb

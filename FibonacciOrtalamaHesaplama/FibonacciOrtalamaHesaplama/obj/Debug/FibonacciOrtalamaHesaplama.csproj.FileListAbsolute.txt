@@ -1,0 +1,8 @@
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\bin\Debug\FibonacciOrtalamaHesaplama.exe.config
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\bin\Debug\FibonacciOrtalamaHesaplama.exe
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\bin\Debug\FibonacciOrtalamaHesaplama.pdb
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\obj\Debug\FibonacciOrtalamaHesaplama.csproj.AssemblyReference.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\obj\Debug\FibonacciOrtalamaHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\obj\Debug\FibonacciOrtalamaHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\obj\Debug\FibonacciOrtalamaHesaplama.exe
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\obj\Debug\FibonacciOrtalamaHesaplama.pdb

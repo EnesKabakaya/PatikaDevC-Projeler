@@ -1,0 +1,8 @@
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\Algoritma\Algoritma\obj\Debug\Algoritma.csproj.AssemblyReference.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\Algoritma\Algoritma\obj\Debug\Algoritma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\Algoritma\Algoritma\obj\Debug\Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\Algoritma\Algoritma\bin\Debug\Algoritma.exe.config
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\Algoritma\Algoritma\bin\Debug\Algoritma.exe
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\Algoritma\Algoritma\bin\Debug\Algoritma.pdb
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\Algoritma\Algoritma\obj\Debug\Algoritma.exe
+C:\Users\Enes Kabakaya\OneDrive\Masaüstü\C#Projeleri\Algoritma\Algoritma\obj\Debug\Algoritma.pdb
